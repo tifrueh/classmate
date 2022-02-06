@@ -1,0 +1,6 @@
+[Desktop Entry] 
+Name=Toggle Virtual Keyboard 
+Exec=/usr/local/bin/toggle-keyboard.sh 
+Type=Application 
+Terminal=False 
+Icon=matchbox-keyboard.png
