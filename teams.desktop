@@ -1,6 +1,6 @@
 [Desktop Entry]
-Type=Application 
-Name=Teams 
-Exec=/usr/bin/chromium-browser --app=https://teams.microsoft.com --full-screen 
+Type=Application
+Name=Teams
+Exec=/usr/bin/chromium-browser --app=https://teams.microsoft.com --full-screen
 Icon=teams.png
 Terminal=false
